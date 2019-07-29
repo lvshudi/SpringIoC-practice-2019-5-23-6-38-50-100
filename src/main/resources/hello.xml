@@ -6,4 +6,5 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!--Code here-->
+    <bean id="person" class="com.example.SpringIoCpractice.Person"></bean>
 </beans>
